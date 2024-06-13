@@ -1,6 +1,6 @@
-li.voice-state:not([data-reactid*="DISCORD USER'S ID"]) { display:none; }
+li.voice-state:not([data-reactid*="391713571354050564"]) { display:none; }
 .avatar {
-content:url(DISCORD URL IMAGE LINK FOR IDLE PNG/GIF);
+content:url(https://cdn.discordapp.com/attachments/1125604091960250488/1250720423558254632/1.png?ex=666bf7aa&is=666aa62a&hm=1d14897afd1bd80a27809a30a820c63f8a3fa47d6b9e5d0dc08d45cbccb0c9f1&);
 height:auto !important;
 width:auto !important;
 border-radius:0% !important;
@@ -14,7 +14,7 @@ animation-name: speak-now;
 animation-duration: 1s;
 animation-fill-mode:forwards;
 filter: brightness(100%);
-content:url(DISCORD URL IMAGE LINK FOR TALKING PNG/GIF);
+content:url(https://media.discordapp.net/attachments/1125604091960250488/1250720423897989201/2.png?ex=666bf7aa&is=666aa62a&hm=b704bd3ab1a2e4f8f931a9234028f118fceeef03d4bb7fb17da90edcbe68a63d&=&format=webp&quality=lossless&width=647&height=647);
 }
 
 @keyframes speak-now {
